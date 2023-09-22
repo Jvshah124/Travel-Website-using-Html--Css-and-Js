@@ -2,7 +2,7 @@
 
 Welcome to the Travel and Adventure Website, a platform designed to inspire and guide travelers to unforgettable experiences with a positive impact. Whether you're seeking information about destinations, stories from fellow adventurers, or planning your next journey, our website has got you covered.
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](LandingPage.png)
 
 ## Features
 
